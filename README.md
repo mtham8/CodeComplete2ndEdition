@@ -1,20 +1,20 @@
 # Code Complete - 2nd Edition
 Key points in Code Complete 2nd Edition
 
-##Table of Contents
-Part I: [Laying the Foundation](#Laying-the-Foundation)
+## Table of Contents
+Part I: [Laying the Foundation](#laying-the-foundation)
 
-Part II: [Creating High-Quality Code] (#Creating-High-Quality-Code)
+Part II: [Creating High-Quality Code](#creating-high-quality-code)
 
-Part III: [Variables] (#Variables)
+Part III: [Variables](#variables)
 
-Part IV: [Statements] (#Statements)
+Part IV: [Statements](#statements)
 
-Part V: [Code Improvements] (#Code-Improvements)
+Part V: [Code Improvements](#code-improvements)
 
-Part VI: [System Considerations] (#System-Considerations)
+Part VI: [System Considerations](#system-considerations)
 
-Part VII: [Software Craftsmanship] (#Software-Craftsmanship)
+Part VII: [Software Craftsmanship](#software-craftsmanship)
 
 
 ## Laying the Foundation
@@ -53,3 +53,21 @@ _What's the significance behind software construction?_
 * With a focus in construction, the individual programmer's productivity can improve enormously. 
 * Construction’s product, the source code, is often the only accurate description of the software.
 * __Construction is the only activity that’s guaranteed to be done__
+
+## Creating High-Quality Code
+Coming soon.
+
+## Variables
+Coming soon.
+
+## Statements
+Coming soon.
+
+## Code Improvements
+Coming soon.
+
+## System Considerations
+Coming soon.
+
+## Software Craftsmanship
+Coming soon.
