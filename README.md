@@ -54,6 +54,7 @@ _What's the significance behind software construction?_
 * Construction’s product, the source code, is often the only accurate description of the software.
 * __Construction is the only activity that’s guaranteed to be done__
 
+__Chapter 2: 
 ## Creating High-Quality Code
 Coming soon.
 
