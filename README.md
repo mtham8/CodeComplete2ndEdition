@@ -54,7 +54,20 @@ _What's the significance behind software construction?_
 * Construction’s product, the source code, is often the only accurate description of the software.
 * __Construction is the only activity that’s guaranteed to be done__
 
-__Chapter 2: 
+__Chapter 3: Measure Twice, Cut Once: Upstream Prerequisites__
+
+As with building construction, much of the success and failure of the project has already been determined before the construction begins. If the foundation hasn't been laid well or the planning is inadequate, the best you can do during construction is to keep the damage to a minimum.
+
+If you emphasize quality at the end of the project, you emphasize system testing.
+
+If you emphasize quality in the middle of the project, you emphasize construction practices.
+
+If you emphasize quality in the beginning of the project, you plan for, require, and design a high-quality product.
+
+The overarching goal for prepration is the reduction of risk reduction.
+
+
+
 ## Creating High-Quality Code
 Coming soon.
 
