@@ -64,7 +64,7 @@ If you emphasize quality in the middle of the project, you emphasize constructio
 
 If you emphasize quality in the beginning of the project, you plan for, require, and design a high-quality product.
 
-The overarching goal for prepration is the reduction of risk reduction.
+The overarching goal for prepration is risk reduction: a good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smooth as possible.
 
 
 
