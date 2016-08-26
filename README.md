@@ -66,6 +66,11 @@ If you emphasize quality in the beginning of the project, you plan for, require,
 
 The overarching goal for prepration is risk reduction: a good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smooth as possible.
 
+_3.2 Determine the Kind of Software You're Working On_
+
+Different kinds of software projects call for different balances between preparation and construction. Every project is unique, but projects do tend to fall into general development styles.
+
+The iterative project that abbreviates or eliminates prerequisites will differ in two ways from a sequential project that does the same thing. First, average defect correction costs will be lower because defects will tend to be detected closer to the time they were inserted into the software. However, the defects will still be detected late in each iteration, and correcting them will require parts of the software to be redesigned, recoded, and retested—which makes the defect-correction cost higher than it needs to be.
 
 
 ## Creating High-Quality Code
